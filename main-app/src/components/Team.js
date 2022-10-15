@@ -18,7 +18,7 @@ export const Team = () => {
                 <div className='basis-1/3 p-2 h-full'>
                     <div className='h-1/4 mb-4 md:mb-8'>
                         <p className='text-bold text-sm md:text-lg'>Chris Ward</p>
-                        <p className='text-xs md:text-sm'>Head of Operations</p>
+                        <p className='text-xs md:text-sm'>C.O.O</p>
                     </div>
                     <img src='../images/eng4.jpg' className='h-full w-full' />
                 </div>

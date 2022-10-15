@@ -8,7 +8,6 @@ import { Process } from './components/Process';
 import { Services } from './components/Services';
 import { Offer } from './components/Offer';
 import { Team } from './components/Team';
-import { Partners }from './components/Partners';
 import { Blog } from './components/Blog';
 import { Banner } from './components/Banner';
 import { Footer } from './components/Footer';
@@ -24,7 +23,6 @@ function App() {
       <Services /> 
       <Offer />
       <Team />
-      <Partners />
       <Blog />
       <Banner />
       <Footer />
